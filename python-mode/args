@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: parse_args_alt
+# key: args
+# --
+args = parser.parse_args()
