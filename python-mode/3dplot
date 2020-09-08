@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: 3dplot
+# key: 3dplot
+# --
+from mpl_toolkits.mplot3d import Axes3D
